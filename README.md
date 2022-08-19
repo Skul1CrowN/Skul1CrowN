@@ -24,7 +24,7 @@ Experienced on
 - Framework  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-- Pentest Tools and OS
+- Pentest Tools and OS  
 ![Burp suite](https://img.shields.io/badge/-Burp%20Suite-orange?style=for-the-badge)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
