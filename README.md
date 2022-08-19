@@ -6,9 +6,9 @@ Skul1CrowN 💀
 
 Interested on
 =============
-Penetration Testing  
-Cyber Security  
-Basic Computer Network
+-Penetration Testing  
+-Cyber Security  
+-Basic Computer Network
 
 Experienced on
 =============  
