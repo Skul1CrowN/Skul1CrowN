@@ -1,5 +1,6 @@
 About Me
 =============
-Hello World. I'm Skul1CrowN
+Hello World
 
-#Penetration Tester 
+I'm Skul1CrowN
+
