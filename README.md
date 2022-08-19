@@ -1,10 +1,8 @@
 About Me
 =============
-Hello World
-
-My name is Punnawit Wachirasethaherun
-
-Skul1CrowN 💀
+Hello World<br />
+My name is Punnawit Wachirasethaherun<br />
+Skul1CrowN 💀<br />
 
 Experienced on
 =============
