@@ -9,6 +9,7 @@ Interested on
 - Penetration Testing  
 - Cyber Security  
 - Basic Computer Network
+- Developer
 
 Experienced on
 =============  
@@ -22,6 +23,9 @@ Experienced on
 
 - Framework  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+- Pentest Tools
+![Burp suite](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 Currently Learning
 =============  
