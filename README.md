@@ -4,7 +4,7 @@ Hello World
 My name is Punnawit Wachirasethaherun  
 Skul1CrowN 💀  
 
-<☄> Hoshiyomi <☄>  
+☄ Hoshiyomi ☄  
 ![Suisei](https://github.com/Skul1CrowN/Skul1CrowN/blob/main/68747470733a2f2f632e74656e6f722e636f6d2f757a6a73414b4a70352d6f41414141432f7375697365692d686f7368696d616368692e676966.gif)
 
 Interested on
