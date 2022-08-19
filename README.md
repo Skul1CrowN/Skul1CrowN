@@ -1,4 +1,4 @@
-#About Me
+About Me
 =============
 Hello World. I'm Skul1CrowN
 
