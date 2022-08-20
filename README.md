@@ -7,7 +7,7 @@ Skul1CrowN 💀
 ☄ Hoshiyomi ☄  
 <a href="https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A">
   <img src="suisei_motioning.gif" alt="Hoshimachi Suisei" width="200" height="175">
- </a>
+</a>
 
 Interested on
 =============
