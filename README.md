@@ -11,9 +11,9 @@ Skul1CrowN 💀
 
 Interested on
 =============
-- Penetration Testing  
-- Cyber Security  
-- Basic Computer Network
+- Penetration Testing (Red Team)
+- Digital Forensics (Blue Team)
+- Computer Network
 - Developer
 
 Experienced on
