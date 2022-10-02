@@ -12,9 +12,9 @@ Skul1CrowN 💀
 Interested on
 =============
 - Penetration Testing (Red Team)
-- Digital Forensics (Blue Team)
+- OSINT
 - Computer Network
-- Developer
+- Developer (Occasionally)
 
 Experienced on
 =============  
