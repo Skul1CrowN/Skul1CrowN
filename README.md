@@ -11,8 +11,7 @@ Skul1CrowN 💀
 
 Interested on
 =============
-- Penetration Testing (Red Team)
-- OSINT
+- Ethical Hacking
 - Computer Network
 - Developer (Occasionally)
 
