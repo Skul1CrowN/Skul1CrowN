@@ -9,13 +9,13 @@ Skul1CrowN 💀
   <img src="suisei_motioning.gif" alt="Hoshimachi Suisei" width="200" height="175">
 </a>
 
-Interested on
+Interested in
 =============
 - Ethical Hacking
 - Computer Network
 - Developer (Occasionally)
 
-Experienced on
+Experienced in
 =============  
 - Language  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
