@@ -1,8 +1,9 @@
 About Me
 =============
 Hello World  
-My name is Punnawit Wachirasethaherun  
-Skul1CrowN 💀  
+My name is Punnawit Wachirasethaherun (Boat)  
+I also aliased by "Skul1CrowN", "PickAUsername" 
+💀  
 
 ☄ Hoshiyomi ☄  
 <a href="https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A">
@@ -11,9 +12,10 @@ Skul1CrowN 💀
 
 Interested in
 =============
-- Ethical Hacking
-- Computer Network
-- Developer (Occasionally)
+- 🟣Purple Team Cyber Security (🔵Blue + 🔴Red Team)
+- Computer Networking and Infrastructure
+- Pure Mathematics and Computer Related Maths
+- Software Developer (Occasionally)
 
 Experienced in
 =============  
@@ -32,20 +34,13 @@ Experienced in
 ![Burp suite](https://img.shields.io/badge/-Burp%20Suite-orange?style=for-the-badge)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-- Linux Distro  
+- DevOps  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+- Linux Distro (That I used to)  
+![Debian](https://img.shields.io/badge/-Debian-%23d70a53?style=for-the-badge&logo=debian&logoColor=white)
 ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Manjaro](https://img.shields.io/badge/-manjaro-%2334BE5B?style=for-the-badge&logo=manjaro&logoColor=white)
 
-Currently Learning
-=============  
-- Framework  
-![NextJS](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%FFFFFF)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-- Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-- Devops  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
