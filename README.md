@@ -37,10 +37,13 @@ Experienced in
 - DevOps  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+- Linux Distro (Currently I used)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7f3fbf?style=for-the-badge&logo=linux&logoColor=white)
+
 - Linux Distro (That I used to)  
 ![Debian](https://img.shields.io/badge/-Debian-%23d70a53?style=for-the-badge&logo=debian&logoColor=white)
-![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/-manjaro-%2334BE5B?style=for-the-badge&logo=manjaro&logoColor=white)
 
 
