@@ -37,7 +37,7 @@ Experienced in
 - DevOps  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-- Linux Distro (Currently I used)
+- Linux Distro (Currently I used)  
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7f3fbf?style=for-the-badge&logo=linux&logoColor=white)
 
 - Linux Distro (That I used to)  
