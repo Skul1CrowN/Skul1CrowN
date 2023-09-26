@@ -10,7 +10,7 @@ I also aliased by "Skul1CrowN", "PickAUsername"
   <img src="suisei_motioning.gif" alt="Hoshimachi Suisei" width="200" height="175">
 </a>
 
-<img src"https://media.tenor.com/T8pE5uK3nKAAAAAi/aris-dancing-arisu-blue-archive.gif" alt="Arisu Tendou" width="200" height="175">
+<img src="https://media.tenor.com/T8pE5uK3nKAAAAAi/aris-dancing-arisu-blue-archive.gif" alt="Arisu Tendou" width="300" height="250">
 
 Interested in
 =============
