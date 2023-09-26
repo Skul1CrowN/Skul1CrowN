@@ -9,10 +9,14 @@ I also aliased by "Skul1CrowN", "PickAUsername"
 <a href="https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A">
   <img src="suisei_motioning.gif" alt="Hoshimachi Suisei" width="200" height="175">
 </a>
-
-<img src="https://media.tenor.com/T8pE5uK3nKAAAAAi/aris-dancing-arisu-blue-archive.gif" alt="Arisu Tendou" width="300" height="250">
-
-<img src="https://media.tenor.com/W6V17K6-RWMAAAAd/shigure-ui-ui-beam.gif" alt="Ui Beam" width="300" height="200">
+<br>
+<a href="https://www.youtube.com/watch?v=T9F1Wk8DQdg&pp=ygULYXJpc3UgZGFuY2U%3D">
+  <img src="https://media.tenor.com/T8pE5uK3nKAAAAAi/aris-dancing-arisu-blue-archive.gif" alt="Arisu Tendou" width="300" height="250">
+</a>
+<br>
+<a href="https://www.youtube.com/watch?v=Ci_zad39Uhw">
+  <img src="https://media.tenor.com/W6V17K6-RWMAAAAd/shigure-ui-ui-beam.gif" alt="Ui Beam" width="350" height="200">
+</a>
 
 Interested in
 =============
