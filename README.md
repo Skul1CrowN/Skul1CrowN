@@ -12,7 +12,7 @@ I also aliased by "Skul1CrowN", "PickAUsername"
 
 <img src="https://media.tenor.com/T8pE5uK3nKAAAAAi/aris-dancing-arisu-blue-archive.gif" alt="Arisu Tendou" width="300" height="250">
 
-<img src="https://media.tenor.com/W6V17K6-RWMAAAAd/shigure-ui-ui-beam.gif" alt="Ui Beam" width="300" height="250">
+<img src="https://media.tenor.com/W6V17K6-RWMAAAAd/shigure-ui-ui-beam.gif" alt="Ui Beam" width="300" height="200">
 
 Interested in
 =============
