@@ -1,30 +1,19 @@
 About Me
 =============
-Hello, World!  
-My name is Punnawit Wachirasethaherun [Boat]  
-I also aliased by "Skul1CrowN", "PickAUsername" 
+Hello, SEKAI!  
+I’m Punnawit, but also can call me Boat.  
 
-☄ Hoshiyomi ☄  
-<a href="https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A">
-  <img src="suisei_motioning.gif" alt="Hoshimachi Suisei" width="200" height="175">
-</a>
-<br>
-<a href="https://www.youtube.com/watch?v=T9F1Wk8DQdg&pp=ygULYXJpc3UgZGFuY2U%3D">
-  <img src="https://media.tenor.com/T8pE5uK3nKAAAAAi/aris-dancing-arisu-blue-archive.gif" alt="Arisu Tendou" width="300" height="250">
-</a>
-<br>
-<a href="https://www.youtube.com/watch?v=Ci_zad39Uhw">
-  <img src="https://media.tenor.com/W6V17K6-RWMAAAAd/shigure-ui-ui-beam.gif" alt="Ui Beam" width="350" height="200">
-</a>
+![BRS_rainbow_vomitting](https://github.com/user-attachments/assets/3790f35e-802c-4c30-a7ba-bcbb3f2302e4)
 
-Interested in
+
+Field Interested in
 =============
-- Software Testing
-- Pure Mathematics & Computer Related Maths
-- DevSecOps
-- Computer Networking & System Platform Administration
+- Software QA & Testing
+- DevOps / DevSecOps / SRE
+- Advanced Mathematics / Computer Science Mathematics
+- Computer Networking / System Platform Administration
 - Software Development (Occasionally)
-- Penetration Testing & Red Teaming (Formerly)
+- Cyber Securiy / Penetration Testing/Red Teaming (Formerly)
 
 Experienced in
 =============  
@@ -63,8 +52,8 @@ Experienced in
 ![Podman](https://img.shields.io/badge/podman-%23585695.svg?style=for-the-badge&logo=podman&logoColor=white)
 
 - Linux Distro  
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-%23d70a53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
