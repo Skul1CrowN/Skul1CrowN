@@ -3,7 +3,7 @@ About Me
 Hello, SEKAI!  
 I’m Punnawit, but also can call me Boat.  
 
-![BRS_rainbow_vomitting](https://github.com/user-attachments/assets/3790f35e-802c-4c30-a7ba-bcbb3f2302e4)
+![BRS_rainbow_vomitting](https://github.com/user-attachments/assets/2046d3cf-6978-4434-9800-f1c313638f05)
 
 
 Field Interested in
